@@ -10,18 +10,18 @@ numeros = [1,2,3,4,5,6,7,8,9,10]
 terceiro_elemento = numeros[2]
 print(terceiro_elemento)
  
-# ercício 3: Adicione o número 9 à lista numeros e imprima a lista atualizada.
+# Exeercício 3: Adicione o número 9 à lista numeros e imprima a lista atualizada.
 numeros.append(9)
 print(numeros)
 
 
 
-# ercício 4: Remova o número 5 da lista numeros e imprima a lista resultante.
+# Exercício 4: Remova o número 5 da lista numeros e imprima a lista resultante.
 numeros.remove(5)
 print(numeros)
 
 
-# ercício 5: Crie uma lista chamada carros contendo três nomes de carros diferentes. Em seguida, concatene essa lista com a lista numeros e imprima o resultado.
+# Exercício 5: Crie uma lista chamada carros contendo três nomes de carros diferentes. Em seguida, concatene essa lista com a lista numeros e imprima o resultado.
 
 carros = ["camaro","nivus","polo"]
 numeros.append(carros)
